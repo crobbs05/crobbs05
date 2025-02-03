@@ -10,5 +10,5 @@ I am aiming to add D3 to my tool belt in the near future.
 
 Most, if not all, of my personal projects will focus on the social phenomena of the built environment, which is one aspect of my previous career that is bonded to my soul.
 
-
+**Opinions expressed are solely my own and do not express the views or opinions of my employer.**
 
